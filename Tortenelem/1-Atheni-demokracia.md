@@ -5,9 +5,9 @@
 - polisz (városállam) lett, Kr.e. 8. században
 - Arkhón --> legfőbb hivatali végzettség (csak arisztokraták lehettek)
 - Drakón (Kr.e. 621):
- ~ első (görög) írásos törvények
- ~ célja: az önkényes bíráskodás megszüntetése
- ~ szigorú halálbüntetések --> drákói szigor
+    - első (görög) írásos törvények
+    - célja: az önkényes bíráskodás megszüntetése
+    - szigorú halálbüntetések --> drákói szigor
 
 ## II. Szolón reformjai:
 - adósrabszolgaság megszüntetése és rabszolgák elengedése
