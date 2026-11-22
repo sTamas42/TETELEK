@@ -29,8 +29,8 @@
 12. Az ember és a nyelv 
 
 # Történelem: 
-1.  Az Athéni demokrácia *
-2.  A kereszténység kialakulása, tanai elterjedése *
+1.  Az Athéni demokrácia [-->](./Tortenelem/1-Atheni-demokracia.md)
+2.  A kereszténység kialakulása, tanai elterjedése [-->](./Tortenelem/2-Keresztenyseg-kialakulasa,tanai-elterjedese.md)
 3.  Mohamed és tanításai, a Korán… 
 4.  Az uradalom, a földbirtokosok és jobbágyok kötelessegei és jogai
 5.  A középkori város és lakói, a városok kiváltságai, céhek, a kereskedelem
