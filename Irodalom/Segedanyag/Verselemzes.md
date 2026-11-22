@@ -19,7 +19,7 @@
 ## Műfajok (verses):
 - dal: ritmusa van és énekelhető
 - szerelmi dal: rímel, szerelemről szól
-- epigramma: (sírfelirat) rövid, időmértékes, csattanóval zárul, disztichon
+- epigramma: (sírfelirat) rövid, tömör, időmértékes, disztichonban írt, csattanóval zárul
 - elégia: szomorú, veszteségről szól
 - ars poetica: költői hitvallás --> egy költő feladatát nevezi meg
 - óda: magasztos, fenkölt, dícsőítő ének
