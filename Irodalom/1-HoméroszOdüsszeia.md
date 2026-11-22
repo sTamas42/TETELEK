@@ -14,13 +14,13 @@ Az olünposzon az istenek Odüsszeusz sorsáról döntenek majd Pallasz Athéné
 
 ### 5-13. ének:
 - 5-8. ének: Hermész parancsára a ninfák elengedik Odüsszeuszt viszont Poszeidon vihart támaszt és partra vetődik Szkhéria szigetén.
-- 9. ének: Küklopsz Polüphémosz elől megszökik megvakítva a küklopszot ezzel magára hazagítva Poszeidónt.
-- 10. ének: szelek istene odaodaja nekik zárva a kedvező szeleket viszont kinyitják és elpusztul a flotta Odüsszeusz hajóján kívül.
-- 10. ének: Kirné varázslónő malaccá változtak mindenkit kivéve Odüsszeuszt Hermész varázsfüvével ellen áll a bájnak és megment mindenkit.
-- 11. ének: Alviláglátogatás Teireszás jóslása
-- 12. ének: Szirének majd hatfejű szörny Szkülla és az Örvény Kharübdisz hat társ meghal
-- 12. ének: Odüsszeusz megtiltása ellenére társai megeszik a napisten szent marháit amit Zeusz villámmal bűntet meg. Mindenki meghal Odösszeuszon kívül aki Kalüpszó szigetén rab lesz 2 évig
-- 13. ének: Odüsszeusz hazajut Ithakára.
+- 9 . ének: Küklopsz Polüphémosz elől megszökik megvakítva a küklopszot ezzel magára hazagítva Poszeidónt.
+- 10 . ének: szelek istene odaodaja nekik zárva a kedvező szeleket viszont kinyitják és elpusztul a flotta Odüsszeusz hajóján kívül.
+- 10 . ének: Kirné varázslónő malaccá változtak mindenkit kivéve Odüsszeuszt Hermész varázsfüvével ellen áll a bájnak és megment mindenkit.
+- 11 . ének: Alviláglátogatás Teireszás jóslása
+- 12 . ének: Szirének majd hatfejű szörny Szkülla és az Örvény Kharübdisz hat társ meghal
+- 12 . ének: Odüsszeusz megtiltása ellenére társai megeszik a napisten szent marháit amit Zeusz villámmal bűntet meg. Mindenki meghal Odösszeuszon kívül aki Kalüpszó szigetén rab lesz 2 évig
+- 13 . ének: Odüsszeusz hazajut Ithakára.
 
 ### 14-24. ének:
 - 4-20. ének: Odüsszeusz Eumaiosznál megszáálva felfedi magát Telémakhosznak. Palotájába érve kutyája felismeri őt.
