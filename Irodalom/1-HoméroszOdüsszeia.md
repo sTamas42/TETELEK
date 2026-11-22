@@ -3,7 +3,7 @@
 - ókor
 
 ## Fontosabb szereplők:
-- Odüsszeusz "a leleményes", Ithaka királya haza jutása a trójai hánorú után
+- Odüsszeusz "a leleményes", Ithaka királya haza jutása a trójai háború után
 - Penelopé --> "hűséges" Odüsszeusz felesége
 - Télemakhosz --> Odüsszeusz fia
 - Pallasz Athéné --> "bagolyszemű", segíti Odüsszeuszt útján
