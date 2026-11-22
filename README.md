@@ -1,8 +1,8 @@
 # Irodalom:
 1.  Homérosz: Odüsszeia [-->](./Irodalom/1-HoméroszOdüsszeia.md)
 2.  Szophoklész: Antigoné  [-->](./Irodalom/2-SzophokleszAntigone.md)
-3.  Biblia  
-4.  A reneszánsz: Janus Pannonius  
+3.  Biblia  [-->](./Irodalom/3-Biblia.md)
+4.  A reneszánsz: Janus Pannonius  [-->](./Irodalom/4-AReneszanszJanusPannonius.md)
 5.  Shakespeare-i színház jellemzői, Rómeó és Júlia/ Hamlet  
 6.  A felvilágosodás: Voltaire: Candide  
 7.  Francia klasszicista színház: Moliére: Tartuffe  
