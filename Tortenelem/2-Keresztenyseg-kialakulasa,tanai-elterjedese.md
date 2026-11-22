@@ -11,11 +11,11 @@
 - példát mutatott az istenfélő életre
 - Utolsó vacsora --> alapja az úrvacsora szertartásának
 - Pontius Pilatus feszíttette keresztre, zsidó papok kérésére
- ~ halála után Jeruzsálemben közösség alakult ki
- ~ Péter az első apostolként, terjesztette a hitet
+    - halála után Jeruzsálemben közösség alakult ki
+    - Péter az első apostolként, terjesztette a hitet
 
 ## II. Páli fordulat:
 - Pál apostol terjesztette a kereszténységet --> Kis-Ázsiában, Egyiptomban, Szíriában
 - Fő tanításai:
- ~ Nem kell a közeli végítéletre várni, a hit által mindenki üdvözülhet.
- ~ Isten minden nép istene, Jézus mindenkit megváltott.
+    - Nem kell a közeli végítéletre várni, a hit által mindenki üdvözülhet.
+    - Isten minden nép istene, Jézus mindenkit megváltott.
