@@ -1,6 +1,6 @@
 # Irodalom:
-1.  Homérosz: Odüsszeia  
-2.  Szophoklész: Antigoné  
+1.  Homérosz: Odüsszeia [-->](./Irodalom/1-HoméroszOdüsszeia.md)
+2.  Szophoklész: Antigoné  [-->](./Irodalom/2-SzophokleszAntigone.md)
 3.  Biblia  
 4.  A reneszánsz: Janus Pannonius  
 5.  Shakespeare-i színház jellemzői, Rómeó és Júlia/ Hamlet  
