@@ -1,11 +1,11 @@
 # Irodalom:
 1.  Homérosz: Odüsszeia [-->](./Irodalom/1-HoméroszOdüsszeia.md)
-2.  Szophoklész: Antigoné  [-->](./Irodalom/2-SzophokleszAntigone.md)
-3.  Biblia  [-->](./Irodalom/3-Biblia.md)
-4.  A reneszánsz: Janus Pannonius  [-->](./Irodalom/4-AReneszanszJanusPannonius.md)
+2.  Szophoklész: Antigoné [-->](./Irodalom/2-SzophokleszAntigone.md)
+3.  Biblia [-->](./Irodalom/3-Biblia.md)
+4.  A reneszánsz: Janus Pannonius [-->](./Irodalom/4-AReneszanszJanusPannonius.md)
 5.  Shakespeare-i színház jellemzői, Rómeó és Júlia [-->](./Irodalom/5-Shakespeare-iSzinhazRomeoEsJulia.md)
 6.  A felvilágosodás: Voltaire: Candide [-->](./Irodalom/6-FelvilagosodasVoltaireCandide.md)
-7.  Francia klasszicista színház: Moliére: Tartuffe  
+7.  Francia klasszicista színház: Moliére: Tartuffe [-->](./Irodalom/7-FranciaKlasszicistaSzinhazMoliereTartuffe.md)
 8.  Puskin: Anyegin 
 9.  Katona József: Bánk bán  
 10. Vörösmarty Mihály lírája 
