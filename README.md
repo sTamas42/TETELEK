@@ -6,7 +6,7 @@
 5.  Shakespeare-i színház jellemzői, Rómeó és Júlia [-->](./Irodalom/5-Shakespeare-iSzinhazRomeoEsJulia.md)
 6.  A felvilágosodás: Voltaire: Candide [-->](./Irodalom/6-FelvilagosodasVoltaireCandide.md)
 7.  Francia klasszicista színház: Moliére: Tartuffe [-->](./Irodalom/7-FranciaKlasszicistaSzinhazMoliereTartuffe.md)
-8.  Puskin: Anyegin 
+8.  Puskin: Anyegin [-->](./Irodalom/8-PuskinAnyegin.md)
 9.  Katona József: Bánk bán  
 10. Vörösmarty Mihály lírája 
 11. Jókai Mór utópiái: Az arany ember 
