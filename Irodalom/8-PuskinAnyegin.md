@@ -2,12 +2,13 @@
 - műfaj: verses regény
 - kor: orosz romantika (19. század)
 * 1 ajánlás és 8 fejezet
+* "spleen" életérzés --> közöny, unalom, világfájdalom (életuntság)
 
 ## Szereplők:
 - Anyegin: gazdag, művelt, de kiábrándult és unott fiatal nemes. Nem találja helyét a világban.
 - Tatjana: vidéki földbirtokos lánya, romantikus lelkületű, érzékeny, olvasni szerető lány. Szerelmes lesz Anyeginbe.
-- Olga: Tatjana húga, életvidám lány, Lenszkij menyasszonya.
-- Lenszkij: fiatal, romantikus költő, Anyegin barátja, Olga szerelme.
+- Olga: Tatjana húga, életvidám lány, Lenszkij menyasszonya. (Tatjana ellentéte)
+- Lenszkij: fiatal, romantikus költő, Anyegin barátja, Olga szerelme. (Anyegin ellentéte)
 - Anyegin nagybátyja: halála után Anyegin örökli vidéki birtokát.
 
 ## Történet:
