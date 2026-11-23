@@ -35,8 +35,12 @@
 - Paris: Szerelmes Júliába, Verona hercege
 
 ### Történet:
-A történet két veronai család, a Montague-k és a Capuletek viszályáról szól. A két család sarjai Rómeó (Montegue család) és Júlia (Capulet család) találkoznak egy maszkos bálban, szerelmesek lesznek egymásba és titokban összeházasodnak. Később Mercutio meghal, Júlia unokatesója Capulet család Tybaltja által ezért Rómeó megöli őt, ezért Paris herceg száműzi Rómeót Veronából.
-Júlia nem akarja elfogadni, hogy nem lehet együtt Rómeóval ezért kiterveli, hogy egy szer által idéglenesen halált fog színlelni. A terv nem jut el Rómeóhoz, aki száműzetéséből visszatérve megtalálja a "halott" Júliát, ezért véget vet életének. Mikor Júlia felkel meglátja mi történt, ezért ő is öngyilkos lesz. A két fiatal halála miatt kibékülnek családjaik.
+ A történet két veronai család, a Montague-k és a Capuletek viszályáról szól. 
+
+ A két család sarjai Rómeó (Montegue család) és Júlia (Capulet család) találkoznak egy maszkos bálban, szerelmesek lesznek egymásba és titokban összeházasodnak. Később Mercutio meghal, Júlia unokatesója Capulet család Tybaltja által ezért Rómeó megöli őt, ezért Paris herceg száműzi Rómeót Veronából.
+
+ Júlia nem akarja elfogadni, hogy nem lehet együtt Rómeóval ezért kiterveli, hogy egy szer által idéglenesen halált fog színlelni. 
+ A terv nem jut el Rómeóhoz, aki száműzetéséből visszatérve megtalálja a "halott" Júliát, ezért véget vet életének. Mikor Júlia felkel meglátja mi történt, ezért ő is öngyilkos lesz. A két fiatal halála miatt kibékülnek családjaik.
 
 ### Motívumok:
 éjszaka (sötétség) <-> nappal (világosság)
@@ -45,3 +49,6 @@ Júlia nem akarja elfogadni, hogy nem lehet együtt Rómeóval ezért kiterveli,
 
 ### Értelmezés:
 érdekházasség (középkor) <-> szerelem (romantika)
+
+
+[Videó](https://youtu.be/fCivkyC62TE)

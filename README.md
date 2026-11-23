@@ -4,7 +4,7 @@
 3.  Biblia  [-->](./Irodalom/3-Biblia.md)
 4.  A reneszánsz: Janus Pannonius  [-->](./Irodalom/4-AReneszanszJanusPannonius.md)
 5.  Shakespeare-i színház jellemzői, Rómeó és Júlia [-->](./Irodalom/5-Shakespeare-iSzinhazRomeoEsJulia.md)
-6.  A felvilágosodás: Voltaire: Candide  
+6.  A felvilágosodás: Voltaire: Candide [-->](./Irodalom/6-FelvilagosodasVoltaireCandide.md)
 7.  Francia klasszicista színház: Moliére: Tartuffe  
 8.  Puskin: Anyegin 
 9.  Katona József: Bánk bán  
