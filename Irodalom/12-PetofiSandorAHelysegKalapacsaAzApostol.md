@@ -23,81 +23,75 @@
  Könyvmásolásból él egy penészes, hideg padláson Júliával 
 
 **3. rész (jelen) 15-19. ének:**
-Szilveszter arra kel hogy meghalt a csemeőjük Júliával 
-El adják a jegygyűrűjüket hogy eltemethesség a babát
-a könyve miatt 10 évre börtönbe zárják
-a börtönben egyszer megjelenik Júlia szelleme hogy elmondja neki hogy meghalt
-hazaengedik de nincs otthon senki
-megátkozza isteni 
-merényletet követ el a király ellen de elbukik és meghal
 
-**4.rész (jövő) 20. ének:**
-halála után a kövi felszabadult generáció tisztelettel apostólként néz rá
+ Szilveszter arra ébred, hogy meghalt a csemeőjük Júliával.
+ El adják a jegygyűrűjüket, hogy eltemethesség a babát. A könyve miatt 10 évre börtönbe zárják, ahol egyszer megjelenik Júlia szelleme, hogy elmondja neki, hogy meghalt.
+ Hazaengedik, de nincs otthon senki. 
+ Megátkozza isteni 
+ Merényletet követ el a király ellen, de elbukik és meghal.
 
-Éketrajzi párhuzamok
-Szilveszter = Petőfi
--szegények voltak
--Júlia feleség
--a nép elüldözte=választási vereség
--mindketten meg akták változtatni a világot
+**4. rész (jövő) 20. ének:**
 
-Szőlőszem hasonlat
-metafora: Föld = Szőlőszem
-a szőlőszem sok napsugártól érik meg egy nyár alatt
-a Föld sok nagy embertől érik több száz millió év alatt
-cél: boldogság
-eszköz: szabadság
-A jövőképe : meg fog érni a föld
+ Halála után a követkető felszabadult generáció tisztelettel, apostólként tekint rá.
+### Életrajzi párhuzamok:
+- Szilveszter = Petőfi
+    - szegények voltak
+    - Júlia feleség
+    - a nép elüldözte őket = választási vereség
+    - mindketten meg akarták változtatni a világot
 
-Értelmezés:
--Petőfi magáról ír, be akarja mutatni hogy képes lett volna megváltoztatni a világot
-magánember vs polgári élet ->a kettőt szét kell választani
-valyon csak nagy lelkek szamítanak a föld megérésében
+- Szőlőszem hasonlat
+    - metafora: Föld = Szőlőszem
+    - a szőlőszem sok napsugártól érik meg egy nyár alatt
+    - a Föld sok nagy embertől érik több száz millió év alatt
+    - cél: boldogság
+    - eszköz: szabadság
+    - jövőkép: meg fog érni a föld
 
----------------------------
+### Értelmezés:
+ Petőfi magáról ír, be akarja mutatni hogy képes lett volna megváltoztatni a világot
+ magánember vs polgári élet --> a kettőt szét kell választani
+ valyon csak nagy lelkek szamítanak a föld megérésében
 
-Helyég Kalapácsa 
-Író: Petőfi Sándor
-Műfaj: Vígeposz
-Kor: Romantika
 
-Szereplők:
-Fejenagy- Szélestenyerű
-Erzsók- Szemérmetes
-Csepős Palk- Fejenagy tanítványa
-A csaplár Bagarja - a béke barátja
-Harangláb - Fondor lelkületű egyházfi
-Márta - Amazontermészetű
-Bíró - kevésszavú
-Kisbíró - verte a feleségét
-
-Történet: 
-
-1 ének
+## A helység Kalapácsa:
+- műfaj: vígeposz
+- kor: romantika
+### Szereplők:
+- Fejenagy- Szélestenyerű
+- Erzsók- Szemérmetes
+- Csepős Palk- Fejenagy tanítványa
+- A csaplár Bagarja - a béke barátja
+- Harangláb - Fondor lelkületű egyházfi
+- Márta - Amazontermészetű
+- Bíró - kevésszavú
+- Kisbíró - verte a feleségét
+### Történet: 
+**1. ének:**
 - Megismerjük a falusi kocsmát és annak környezetét.
 - Fejenagy, a kovács, a kocsmában tartózkodik.
 - Megjelenik a konfliktus alapja: Erzsók iránt többen is érdeklődnek.
 
-2 ének
+**2. ének:**
 - Megismerjük a szereplők közötti szerelmi viszonyokat.
 - Harangláb is szemet vet Erzsókra.
 - A féltékenység és a rivalizálás egyre nagyobb szerepet kap.
 
-3 ének
+**3. ének:**
 - Fejenagy és Harangláb között egyre nagyobb lesz az ellentét.
 - A szereplők indulatai fokozódnak.
 - A komikus helyzetek egyre inkább eldurvulnak.
 
-4 ének
+**4. ének:**
 - Kitör a verekedés.
 - Fejenagy és Harangláb összecsapása áll a középpontban.
 - A kocsmai események teljes káoszba fordulnak.
 
-5 ének 
+**5. ének:**
 - A verekedés következményei rendeződnek.
 - A szereplők sorsa komikus módon alakul.
 - A történet az eposzi befejezés paródiájaként zárul.
 
-Értelmezés:
-A mű egy eposz paródia: Vígeposz
-Petőfi azzal paródizálja ki az eposz műfajt hogy egy hősies harc helyett egy kocsmai verekedés van a középpontban. A karakterek állandójelzője is az eposz paródiája
+### Értelmezés:
+- A mű egy eposz paródia: vígeposz.
+- Petőfi azzal paródizálja ki az eposz műfaját, hogy egy hősies harc helyett egy kocsmai verekedés van a középpontban. A karakterek állandójelzője szintén az eposz paródiája.
