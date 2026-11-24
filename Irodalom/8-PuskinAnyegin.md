@@ -3,6 +3,7 @@
 - kor: orosz romantika (19. század)
 * 1 ajánlás és 8 fejezet
 * "spleen" életérzés --> közöny, unalom, világfájdalom (életuntság)
+- Anyegin strófa: 14 sorból áll --> ABAB|CCDD|EFFE|GG
 
 ## Szereplők:
 - Anyegin: gazdag, művelt, de kiábrándult és unott fiatal nemes. Nem találja helyét a világban.

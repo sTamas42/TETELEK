@@ -14,6 +14,8 @@
 13. Madách Imre: Az ember tragédiája [-->](./Irodalom/13-MadachImreAzEmberTragediaja.md)
 14. Arany János balladái [-->](./Irodalom/14-AranyJanosBalladai.md)
 
+*Segédanyag* [-->](./Irodalom/Segedanyag/Segedanyag.md)
+
 # Nyelvtan:
 1.  A kommunikáció  
 2.  A tömegkommunikáció  
