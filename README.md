@@ -12,7 +12,7 @@
 11. Jókai Mór utópiái: Az arany ember [-->](./Irodalom/11-JokaiMorUtopiaiAzAranyEmber.md)
 12. Petőfi Sándor: A helység kalapácsa, Az apostol [-->](./Irodalom/12-PetofiSandorAHelysegKalapacsaAzApostol.md)
 13. Madách Imre: Az ember tragédiája [-->](./Irodalom/13-MadachImreAzEmberTragediaja.md)
-14. Arany János balladái
+14. Arany János balladái [-->](./Irodalom/14-AranyJanosBalladai.md)
 
 # Nyelvtan:
 1.  A kommunikáció  
