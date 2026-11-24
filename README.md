@@ -11,7 +11,7 @@
 10. Vörösmarty Mihály lírája [-->](./Irodalom/10-VorosmartyMihalyLiraja.md) 
 11. Jókai Mór utópiái: Az arany ember [-->](./Irodalom/11-JokaiMorUtopiaiAzAranyEmber.md)
 12. Petőfi Sándor: A helység kalapácsa, Az apostol [-->](./Irodalom/12-PetofiSandorAHelysegKalapacsaAzApostol.md)
-13. Madách Imre: Az ember tragédiája 
+13. Madách Imre: Az ember tragédiája [-->](./Irodalom/13-MadachImreAzEmberTragediaja.md)
 14. Arany János balladái
 
 # Nyelvtan:
