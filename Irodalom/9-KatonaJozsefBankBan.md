@@ -31,29 +31,29 @@
 II.Endre éppen hadjáraton van és Bánk bánra hagyja az ország irányítását.
 Gertrúdis bált tart a palotában ahol Ottó Biberach segítségével el akarja csábítani Melindát
 
-1. Felvonás
+**1. felvonás**
 
-    Petur bánék összeesküvést szerveznek Gertrúdis ellen. Bánk hazatér Petur hívására és egyszerre szembesül az ország állapotával és Ottó Melindaval kapcsolatos vágyával.
+Petur bánék összeesküvést szerveznek Gertrúdis ellen. Bánk hazatér Petur hívására és egyszerre szembesül az ország állapotával és Ottó Melindaval kapcsolatos vágyával.
 
-2. felvonás
+**2. felvonás**
 
-    Bánk megérkezk Petur bánékhoz és megállítja az összeesküvést, mert hűséges a királyhoz.
-    Biberach altatóport kever Gertrúdis italába és hevítő szert Melindájéba, akit Ottó elcsal a titkos lakosztájába, ahol megerőszakolja.
+Bánk megérkezk Petur bánékhoz és megállítja az összeesküvést, mert hűséges a királyhoz.
+Biberach altatóport kever Gertrúdis italába és hevítő szert Melindájéba, akit Ottó elcsal a titkos lakosztájába, ahol megerőszakolja.
 
-3. felvonás
+**3. felvonás**
 
-    Melinda bevallja Bánknak, hogy mi történt, aki először elítéli őt, majd megbocsájt neki és Tiborcra bízza.
-    Tiborc felfedi Bánk előtt a parasztság nyomorát és Gertrúdis kegyetlenségét.
-    Biberach meg akarja zsarolni Ottót, aki ezért leszúrja, viszont halála előtt elmondja Bánknak, hogy mi történt igazából Melindával és hogy Gertrúdis is segített Ottónak.
+Melinda bevallja Bánknak, hogy mi történt, aki először elítéli őt, majd megbocsájt neki és Tiborcra bízza.
+Tiborc felfedi Bánk előtt a parasztság nyomorát és Gertrúdis kegyetlenségét.
+Biberach meg akarja zsarolni Ottót, aki ezért leszúrja, viszont halála előtt elmondja Bánknak, hogy mi történt igazából Melindával és hogy Gertrúdis is segített Ottónak.
 
-4. felvonás 
+**4. felvonás**
 
-    Bánk kérdőre vonja Gertrudis-t a nép megfosztása és Melinda esete miatt.
-    Gertrúdis elutasítja a vádakat, majd tőrt ránt Bánkra mikor segítséget akar hívni. A dulakodás közben Bánk elveszi Gertrúdis tőrjét és felindulva megöli vele.
+Bánk kérdőre vonja Gertrudis-t a nép megfosztása és Melinda esete miatt.
+Gertrúdis elutasítja a vádakat, majd tőrt ránt Bánkra mikor segítséget akar hívni. A dulakodás közben Bánk elveszi Gertrúdis tőrjét és felindulva megöli vele.
 
-5. felvonás
+**5. felvonás**
 
-    Hazaérkezik II.Endre, Bánk bevall mindent. Tiborc megérkezik Melinda holttestével, akit Ottó emberei öltek meg. A király nem itélkezik Bánk felett, mert már Isten ítélkezett felette Melinda halálával.
+Hazaérkezik II.Endre, Bánk bevall mindent. Tiborc megérkezik Melinda holttestével, akit Ottó emberei öltek meg. A király nem itélkezik Bánk felett, mert már Isten ítélkezett felette Melinda halálával.
 
 ## Értelmezés:
 - Tragikus hős: Bánk célja szent, de a törvényekkel és az erkölcsi világrendel szembement. --> A cél nem szentesíti az eszközt.

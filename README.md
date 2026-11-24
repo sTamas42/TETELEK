@@ -8,9 +8,9 @@
 7.  Francia klasszicista színház: Moliére: Tartuffe [-->](./Irodalom/7-FranciaKlasszicistaSzinhazMoliereTartuffe.md)
 8.  Puskin: Anyegin [-->](./Irodalom/8-PuskinAnyegin.md)
 9.  Katona József: Bánk bán [-->](./Irodalom/9-KatonaJozsefBankBan.md) 
-10. Vörösmarty Mihály lírája 
-11. Jókai Mór utópiái: Az arany ember 
-12. Petőfi Sándor: A helység kalapácsa, Az apostol 
+10. Vörösmarty Mihály lírája [-->](./Irodalom/10-VorosmartyMihalyLiraja.md) 
+11. Jókai Mór utópiái: Az arany ember [-->](./Irodalom/11-JokaiMorUtopiaiAzAranyEmber.md)
+12. Petőfi Sándor: A helység kalapácsa, Az apostol [-->](./Irodalom/12-PetofiSandorAHelysegKalapacsaAzApostol.md)
 13. Madách Imre: Az ember tragédiája 
 14. Arany János balladái
 

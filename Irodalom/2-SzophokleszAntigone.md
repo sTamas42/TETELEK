@@ -3,7 +3,7 @@
 - ókor
 
 ## Szereplők:
-![Antigóné szereplők](../Kepek/Antigóné.png)
+![Antigóné szereplők](./Kepek/Antigóné.png)
 
 - Antigóné: Oidipusz lánya, el akarja temetni testvérét Polüneikészt
 - Iszméné: Antigóné testvére, fél Kreón haragjától, nem segít a temetésben
