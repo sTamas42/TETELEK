@@ -31,19 +31,19 @@
 12. Az ember és a nyelv 
 
 # Történelem: 
-1.  Az Athéni demokrácia [-->](./Tortenelem/1-Atheni-demokracia.md)
-2.  A kereszténység kialakulása, tanai elterjedése [-->](./Tortenelem/2-Keresztenyseg-kialakulasa,tanai-elterjedese.md)
-3.  Mohamed és tanításai, a Korán… 
-4.  Az uradalom, a földbirtokosok és jobbágyok kötelessegei és jogai
-5.  A középkori város és lakói, a városok kiváltságai, céhek, a kereskedelem
-6.  Géza és Szent István államszervező tevékenysége, a földbirtokrendszer, a vármegyék szervezése
-7.  IV. Béla (full)
-8.  Károly Róbert (full)
-9.  Hunyadi Mátyás a központosított királyi hatalom kiépítése, jövedelmek és kiadások, külpolitika
-10. Portugál és Spanyol felfedezések, következmények, korai kapitalizmus, európai munkamegosztás
-11. Reformáció a protestantizmus elterjedése europában
-12. Mohácsi csata és közvetlen előzményei, kettős királyválasztás, az orszag három részre szakadása, várháborúk (1568-ig)
-13. Rákoczi szabadságharc, okok, események, szatmári béke
-14. Mária Terézia
-15. Ipari forradalom
-16. Reformkor Magyarországon, Széchenyi és Kossuth programja
+1.  Az Athéni demokrácia [-->](./Tortenelem/1-AzAtheniDemokracia.md)
+2.  A kereszténység kialakulása, tanai elterjedése [-->](./Tortenelem/2-AKeresztenysegKialakulasaTanaiElterjedese.md)
+3.  Mohamed és tanításai, Korán… [-->](./Tortenelem/3-MohamedEsTanitasaiKoran.md) 
+4.  Az uradalom, földbirtokosok és jobbágyok kötelessegei és jogai [-->](./Tortenelem/4-AzUradalomFoldbirtokosokEsJobbagyokKotelessegeiEsJogai.md)
+5.  A középkori város és lakói, városok kiváltságai, céhek, kereskedelem [-->](./Tortenelem/5-AKozepkoriVarosEsLakoiVárosokKivaltsagaiCehekKereskedelem.md)
+6.  Géza és Szent István államszervező tevékenysége, földbirtokrendszer, vármegyék szervezése [-->](./Tortenelem/6-GezaEsSzentIstvanAllamszervezoTevekenysegefoldbirtokrendszerVarmegyekSzervezese.md)
+7.  IV. Béla (full) [-->](./Tortenelem/7-IVBela.md)
+8.  Károly Róbert (full) [-->](./Tortenelem/8.%20Az%20Aranybulla%20legfontosabb%20elemei.md)
+9.  Hunyadi Mátyás, központosított királyi hatalom kiépítése, jövedelmek és kiadások, külpolitika [-->](./Tortenelem/9-HunyadiMatyasKozpontositottKiralyiHatalomKiepiteseJovedelmekEsKiadasokKulpolitika.md)
+10. Portugál és Spanyol felfedezések, következmények, korai kapitalizmus, európai munkamegosztás [-->](./Tortenelem/10-PortugalEsSpanyolFelfedezesekKovetkezmenyekKoraiKapitalizmusEuropaiMunkamegosztas.md)
+11. Reformáció a protestantizmus elterjedése europában [-->](./Tortenelem/11-ReformacioEsProtestantizmusElterjedeseEuropaban.md)
+12. II. András uralkodása és az Aranybulla [-->](./Tortenelem/12-IIAndrarUralkodasaEsAzAranybulla.md)
+13. Rákoczi szabadságharc, okok, események, szatmári béke [-->](./Tortenelem/13-RakocziSzabadsagharcOkokEsemenyekSzatmariBeke.md)
+14. Mária Terézia [-->](./Tortenelem/14-MariaTerezia.md)
+15. Ipari forradalom [-->](./Tortenelem/15-IpariForradalom.md)
+16. Reformkor Magyarországon, Széchenyi és Kossuth programja [-->](./Tortenelem/16-ReformkorMagyarorszagonSzechenyiEsKossuthProgramja.md)
